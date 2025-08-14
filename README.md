@@ -21,7 +21,7 @@ A fully responsive e-commerce website for a fictional clothing brand, built usin
  ## 🔨 How to Use 
  1. Clone the repository 
 ```
- git clone 
+ git clone https://github.com/DylanRhodes098/bootstrap-webpage.git
 ```
 
  2. Navigate to project folder 
