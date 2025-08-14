@@ -1,23 +1,42 @@
-# Bootstrap website
+# 🥾 Bootstrap website
 A fully responsive e-commerce website for a fictional clothing brand, built using **HTML**, **CSS** and **Bootstrap**. The website showcases modern clothing products with a clean design, intuitive navigation, and basic cart functionality.
 
-## Features
+## 🚀 Features
 1. A home page with:
 - A carousel for woman, men and child clothing options
 - An accordian with clothing categories
 - Card options for a variety of brands
 
-## Technologies Used 
+## 💻 Technologies Used 
 - HTML
 - CSS
 - Bootstrap
 
-## Project Structure 
-
+## 📁 Project Structure 
+```
  │── index.html # Home page
  │── style.css # Styling for UI
  │── README.md # Project documentation
-
- ## How to Use 
+```
+ ## 🔨 How to Use 
  1. Clone the repository 
- - git clone 
+```
+ git clone 
+```
+
+ 2. Navigate to project folder 
+ ```
+ cd project-name
+ ``` 
+
+ 3. Install dependencies 
+ ```
+ npm install
+ ```
+
+ 4. Run the project
+ ```
+ npm start 
+```
+
+
